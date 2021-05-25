@@ -1,7 +1,7 @@
 <template>
 <div>
         <li class="list-group-item" :class="messageColor"><slot></slot></li>
-        <small class="bagde float-right badge-success">You </small>
+        <small class="bagde float-right badge-primary">You </small>
 
 </div>
 </template>
